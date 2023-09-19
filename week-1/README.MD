@@ -1,8 +1,10 @@
-# Week 1
-## DevOps Culture
-
+# Week 0
+## OS & Bash Scripting
 References: 
 
-https://www.youtube.com/watch?v=o7-IuYS0iSE
-https://www.freecodecamp.org/news/get-a-basic-understanding-of-the-life-cycles-of-software-development/
-https://www.youtube.com/watch?v=LdOe18KhtT4
+https://www.hostinger.com/tutorials/bash-script-example
+https://ryanstutorials.net/bash-scripting-tutorial/
+https://www.shellscript.sh/
+http://linuxcommand.org/lc3_lts0020.php
+https://www.javatpoint.com/architecture-of-linux
+
