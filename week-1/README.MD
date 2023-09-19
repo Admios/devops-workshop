@@ -1,4 +1,4 @@
-# Week 0
+# Week 1
 ## OS & Bash Scripting
 References: 
 
